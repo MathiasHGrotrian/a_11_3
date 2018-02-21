@@ -1,4 +1,4 @@
-/*package Chapter11;
+package Chapter11;
 
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -17,7 +17,7 @@ public class Exercise3
      Notice that the even numbers located at indexes between 5 inclusive and 13 exclusive in the original list
      (before any modifications were made) have been removed.
      */
-/*
+    
     public static void main(String[] args)
     {
         LinkedList<Integer> list = new LinkedList<Integer>();
@@ -63,5 +63,3 @@ public class Exercise3
         System.out.println("New list: " + list);
     }
 }
-
-*/
